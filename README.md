@@ -1,4 +1,4 @@
-# Laboratio2-P3
+# Laboratorio2-P3
 # INTEGRANTES
 # MARCO TEORICO
 # PROCEDIMIENTO
