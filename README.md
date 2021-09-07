@@ -6,7 +6,9 @@ Alejandra Beltrán
 
 Kevin Barrera
 # OBJETIVOS
+Demostrar por medio de una simulación las señales senoidales que nos pide la practica 
 
+Determinar
 # MARCO TEORICO
 ![](https://github.com/Kevinsan21/Laboratio2-P3/blob/main/Ondas.PNG)
 # PROCEDIMIENTO
