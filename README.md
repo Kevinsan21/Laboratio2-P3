@@ -7,6 +7,7 @@ Alejandra Beltrán
 Kevin Barrera
 # OBJETIVOS
 # MARCO TEORICO
+![](
 # PROCEDIMIENTO
 
 ![PR¦CTICA No 2P3_1](https://user-images.githubusercontent.com/84421370/132275724-0f19a145-3170-433c-a4f5-37ed0be7ffdf.jpg)
