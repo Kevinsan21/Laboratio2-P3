@@ -14,5 +14,8 @@ Kevin Barrera
 
 
 # RESPUESTA A INTERROGANTES
+# VIDEO
 # CONCLUSIONES
+El estudio de ondas senoidales ayuda a representar el valor de corriente alterna a traves de un tiempo variable, en una grafica que represente amplitud y tiempo. La corriente alterana puede ser generada por varos meodos uno de ellos es el uso de bobinas electronicas para pequeñas potencias utilizadas. La manera mas práctica de entender la generación de esta onda es utilizar el “círculo trigonométrico“, o sea, un círculo centrado en un par de ejes cartesianos, con un radio que gira a velocidad constante con sentido contrario a las agujas del reloj, partiendo de la posición horizontal derecha, de manera que el ángulo que forma con la horizontal, partiendo de 0º pasa a 90º cuando está vertical, sigue a 180º cuando llega a horizontal a la izquierda , sigue con 270º cuando está nuevamente vertical pero hacia abajo, y termina en 360º cuando llega a la posición inicial, o sea horizontal a la derecha.
+
 # BIBLIOGRAFIA
