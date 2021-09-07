@@ -6,7 +6,8 @@ Alejandra Beltrán
 
 Kevin Barrera
 # OBJETIVOS
-Demostrar por medio de una simulación las señales senoidales que nos pide la practica 
+.Demostrar por medio de una simulación las señales senoidales que nos pide la practica 
+. Investigar acerca de los componentes y requerimientos que se necesitan en un generador de señales, osciloscopio para garantizar su correcto funcionamiento en la practica.
 
 Determinar
 # MARCO TEORICO
