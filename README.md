@@ -6,6 +6,7 @@ Alejandra Beltrán
 
 Kevin Barrera
 # OBJETIVOS
+
 # MARCO TEORICO
 ![](https://github.com/Kevinsan21/Laboratio2-P3/blob/main/Ondas.PNG)
 # PROCEDIMIENTO
