@@ -10,8 +10,8 @@ Kevin Barrera
 ![](https://github.com/Kevinsan21/Laboratio2-P3/blob/main/Ondas.PNG)
 # PROCEDIMIENTO
 
-![PR¦CTICA No 2P3_1](https://user-images.githubusercontent.com/84421370/132275724-0f19a145-3170-433c-a4f5-37ed0be7ffdf.jpg)
-
+![PR¦CTICA No 2P3_11](https://user-images.githubusercontent.com/84421370/132358771-db6dfee6-2f8f-4c64-90ff-9ea504ae723c.jpg)
+![PR¦CTICA No 2P3_22](https://user-images.githubusercontent.com/84421370/132358794-deee48f2-2c68-4d9d-868f-3392302fe33a.jpg)
 
 # RESPUESTA A INTERROGANTES
 # VIDEO
